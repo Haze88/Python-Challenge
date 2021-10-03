@@ -1,0 +1,7 @@
+n\ budget data 
+\-------------------- 
+	Total Months =86 
+	Total Profit =$38,382,578.00 
+	Average Change per month =$-2,315.12 
+	Greatest increase = Feb-2012 Amount $1,926,159.00 
+	Greatest decrease = Sep-2013 Amount $-2,196,167.00 
